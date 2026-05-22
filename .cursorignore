@@ -1,0 +1,11 @@
+.env
+.env.local
+.env.production
+*.pem
+*.key
+credentials/
+secrets/
+node_modules/
+build/
+dist/
+.DS_Store
